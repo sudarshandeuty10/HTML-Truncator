@@ -1,7 +1,7 @@
 HTML Truncator
 ==============
-
-Wants to truncate an HTML string properly? This gem is for you.
+This package provides a simple function to truncate HTML in text form
+Wants to truncate an HTML properly? This gem is for you.
 It's powered by [Nokogiri](http://nokogiri.org/)!
 
 
